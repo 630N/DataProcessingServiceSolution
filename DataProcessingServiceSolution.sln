@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessingService", "DataProcessingService\DataProcessingService.csproj", "{F4754F55-5EA6-4438-8531-7D6E02988FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessingService.Test", "DataProcessingService.Test\DataProcessingService.Test.csproj", "{99A42A8D-45BE-4527-9C3F-73E7318065DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4754F55-5EA6-4438-8531-7D6E02988FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4754F55-5EA6-4438-8531-7D6E02988FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4754F55-5EA6-4438-8531-7D6E02988FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4754F55-5EA6-4438-8531-7D6E02988FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A42A8D-45BE-4527-9C3F-73E7318065DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A42A8D-45BE-4527-9C3F-73E7318065DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A42A8D-45BE-4527-9C3F-73E7318065DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A42A8D-45BE-4527-9C3F-73E7318065DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9CAF60-890C-4983-A7CE-2296AAB449D1}
+	EndGlobalSection
+EndGlobal
